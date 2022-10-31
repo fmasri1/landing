@@ -1,0 +1,46 @@
+.container{
+  color: white;
+  margin: 0 auto;
+  padding: 110px;
+}
+
+.container h3{
+  color: rgba(228, 171, 171, 0.7);
+  font-weight: 100;
+  margin-bottom: 50px;
+}
+
+.btn-blue, .btn-blue:visited {
+  color: antiquewhite;
+  background-color: rgb(52, 114, 206);
+  padding: 15px 30px;
+  border-radius: 15px;
+  font-weight: 700;
+}
+
+.cards {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.footer{
+  background-color: rgb(22, 18, 18);
+  color: rgb(52, 114, 206);
+  padding: 60px;
+  margin-bottom: 0;
+}
+
+.footer p{
+  color: white;
+  text-align: center;
+}
+
+.list-inline > li{
+  display: inline-block;
+  /* padding: 30px 5px; */
+}
+
+.list-inline{
+  text-align: center;
+  font-size: xx-large;
+}
